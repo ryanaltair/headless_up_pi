@@ -1,0 +1,25 @@
+{
+  "name": "headless_up_pi",
+  "version": "0.9.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "headless_up_pi": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanaltair/headless_up_pi.git"
+  },
+  "author": "ryanaltair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanaltair/headless_up_pi/issues"
+  },
+  "homepage": "https://github.com/ryanaltair/headless_up_pi#readme",
+  "dependencies": {
+    "yargs-interactive": "^3.0.0"
+  }
+}
